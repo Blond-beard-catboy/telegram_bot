@@ -2,7 +2,7 @@ import time
 import logging
 from aiogram import Bot, Dispatcher, executor, types
 
-logging.basicConfig(level=loggong.INFO)
+logging.basicConfig(level=logging.INFO)
 
 
 TOKEN = "5952962061:AAF3GNnxcqOY20dWChaCuojWfmqTtQqt_WU"
